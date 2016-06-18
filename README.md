@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+This is a simple example for a Git
 ##Introduction
 
 ##Deployment
